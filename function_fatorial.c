@@ -1,6 +1,6 @@
-long fatorial(int n)
+int fatorial(int n)
 {
-    long neymar = 1;
+    int neymar = 1;
     for (int i = 1; i <= n; i++)
     {
         neymar *= i;
