@@ -1,9 +1,9 @@
 int fatorial(int n)
 {
-    int neymar = 1;
+    int resultado = 1;
     for (int i = 1; i <= n; i++)
     {
-        neymar *= i;
+        resultado *= i;
     }
-    return neymar;
+    return resultado;
 }
