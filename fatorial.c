@@ -3,7 +3,7 @@
 
 int main(){
 int n = 0;
-long fatorial = 1;
+int fatorial = 1;
 
 printf("digite um numero\n");
 scanf("%d",&n);
