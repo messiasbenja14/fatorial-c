@@ -8,7 +8,7 @@ long fatorial = 1;
 printf("digite um numero\n");
 scanf("%d",&n);
 
-neymar = fatorial(n);
+resultado = fatorial(n);
     
 printf("o fatorial de %d é %d \n", n, fatorial);
 printf("feito por benjamim messias");
